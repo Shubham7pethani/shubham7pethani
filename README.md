@@ -1,16 +1,22 @@
-<div align="left">
-  <img src="https://media.tenor.com/rTJapFMn7q4AAAAC/greetings-hello.gif"
-     alt="Hello GIF"
-     style="width:120px; height:auto;" />
-</div>
+<!-- TOP SECTION (GIF + NAME SIDE BY SIDE) -->
+<table>
+  <tr>
+    <td width="150">
+      <img src="https://raw.githubusercontent.com/shubham7pethani/shubham7pethani/main/greetings-hello.gif" width="150" />
+    </td>
+    <td>
+      <h1 style="font-size: 55px; margin-left: 25px; margin-top: 0; margin-bottom: 0;">
+        I'm Shubham
+      </h1>
+    </td>
+  </tr>
+</table>
 
-<h1 align="left">Hey, I'm Shubham</h1>
 
 <p align="left">
   Passionate self-taught developer from India, constantly leveling up and building real-world projects.
   I focus on clean code, modern UI/UX, and learning new technologies every day.
 </p>
-
 
 ---
 

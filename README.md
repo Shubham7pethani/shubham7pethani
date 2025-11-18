@@ -5,13 +5,15 @@
       <img src="https://raw.githubusercontent.com/shubham7pethani/shubham7pethani/main/greetings-hello.gif" width="150" />
     </td>
     <td>
-      <h1 style="font-size: 55px; margin-left: 25px; margin-top: 0; margin-bottom: 0;">
-        I'm Shubham
-      </h1>
+    <h1 style="margin-left: 25px; margin-top: 0; margin-bottom: 5px;">
+    <span style="font-size: 2.8rem; font-weight: 800;">I'm Shubham</span>
+    </h1>
+      <p style="margin-left: 25px; margin-top: 0; font-size: 20px; color: #c9d1d9;">
+        Creating modern digital experiences, learning every day, improving every release.
+      </p>
     </td>
   </tr>
 </table>
-
 
 <p align="left">
   Passionate self-taught developer from India, constantly leveling up and building real-world projects.
@@ -47,21 +49,41 @@
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Analytics (Modern Dashboard UI)
 
+<!-- DASHBOARD GRID -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shubham7pethani&show_icons=true&hide_border=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubham7pethani&layout=compact&hide_border=true&theme=tokyonight" height="150"/>
+
+<!-- ROW 1 — FULL WIDTH BIG GRAPH -->
+<div style="display: flex; justify-content: center; width: 100%;">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shubham7pethani&theme=tokyo-night&area=true&hide_border=true&radius=16" width="100%" />
 </div>
 
----
+<br/>
 
-## 🧩 GitHub Contribution Activity
+<!-- ROW 2 — TWO CARDS (LEFT → RIGHT) -->
+<div style="display: flex; justify-content: space-between; gap: 20px; width: 100%;">
+  <img src="https://github-readme-stats.vercel.app/api?username=shubham7pethani&show_icons=true&hide_border=true&theme=tokyonight&card_width=400&bg_color=00000000&border_radius=20" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubham7pethani&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&border_radius=20" width="48%" />
+</div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shubham7pethani/shubham7pethani/output/github-snake-dark.svg" />
-  <img src="https://raw.githubusercontent.com/shubham7pethani/shubham7pethani/output/github-snake.svg" />
-</picture>
+<br/>
+
+<!-- ROW 3 — ONE WIDE CARD -->
+<div style="display: flex; justify-content: center; width: 100%;">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=shubham7pethani&theme=tokyonight&hide_border=true&background=00000000&border_radius=20" width="70%" />
+</div>
+
+<br/>
+
+<!-- ROW 4 — TWO CARDS SIDE-BY-SIDE -->
+<div style="display: flex; justify-content: space-between; gap: 20px; width: 100%;">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shubham7pethani&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shubham7pethani&theme=tokyonight&hide_border=true" width="48%" />
+</div>
+
+</div>
+
 
 ---
 
